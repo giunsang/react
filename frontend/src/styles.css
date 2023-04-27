@@ -1,0 +1,85 @@
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 200px;
+  textAlign: "center";
+
+}
+.bg-secondary {
+  margin-left: 200px;
+}
+.topbar {
+  padding-left: 240px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.button {
+  float: right;
+  margin-top: 1px;
+  margin-left: 10px;
+  border: none;
+}
+.button2 {
+  margin-top: 1px;
+  margin-left: 10px;
+  border: none;
+}
+
+@font-face {
+  font-family: "Jamsil3";
+  src: url("./font/The Jamsil 3 Regular.ttf");
+}
+@font-face {
+  font-family: "Jamsil2";
+  src: url("./font/The Jamsil 2 Light.ttf");
+}
+#Tittle {
+    font-family: "Jamsil3";
+    color: rgb(255, 255, 255);
+      font-size: 25px;
+
+}
+
+#Home_b {
+    float: center;
+}
+
+#Home_t {
+    font-family: "Jamsil2";
+    font-size: 30px;
+    float: center;
+    margin-left: 25px;
+
+}
+
+#Home_i {
+    float: center;
+    margin-bottom: 13px;
+}
+
+#menu_t {
+    font-family: "Jamsil2";
+    font-size: 15px;
+    float: center;
+    margin-left: 25px;
+}
+#node {
+      margin-top: 30px;
+      margin-left: 10px;
+}
+
+#M_Tittle {
+    font-family: "Jamsil3";
+    font-size: 40px;
+    float: center;
+}
+
+input {
+  width:465px;
+  height:300px;
+  font-size:15px;
+}
